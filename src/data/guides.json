@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "lnc-certification-vetting-guide",
+    "title": "LNC Certification Vetting Guide",
+    "subtitle": "Know what truly qualified legal nurse consultants look like",
+    "description": "LNCC certification separates qualified experts from imposters\u2014but vetting credentials is time-consuming and risky. This guide shows plaintiff firms and insurers exactly what to look for, so you hire consultants you can trust.",
+    "bullets": [
+      "Verify LNCC credentials in minutes\u2014spot fakes and imposters",
+      "Understand LNCC exam topics: med mal, personal injury, litigation",
+      "State licensing vs. national LNCC: what really matters",
+      "Typical LNCC hourly rates: $150\u2013$400+ depending on expertise"
+    ],
+    "pdfUrl": "/guides/pdf/lnc-certification-vetting-guide.pdf",
+    "category": "Vetting"
+  },
+  {
+    "slug": "lnc-rate-guide-2026",
+    "title": "LNC Rate Guide 2026",
+    "subtitle": "Benchmark LNCC rates across regions and experience levels",
+    "description": "Access current LNCC pricing data: hourly rates, retainer costs, and regional variations. Compare certified consultants by experience level to negotiate confidently and allocate your expert budget effectively.",
+    "bullets": [
+      "LNCC hourly rates by region, certification, and experience",
+      "State-by-state pricing: premium markets vs. affordable regions",
+      "Expert testimony, retainer, and deposition fee benchmarks",
+      "Specialty pricing: malpractice, product liability, nursing home cases"
+    ],
+    "pdfUrl": "/guides/pdf/lnc-rate-guide-2026.pdf",
+    "category": "Pricing"
+  },
+  {
+    "slug": "medical-record-review-checklist",
+    "title": "Medical Record Review Checklist",
+    "subtitle": "Review Medical Records Like a Certified Legal Nurse Consultant",
+    "description": "Cut medical record review time in half. This LNCC-created checklist helps plaintiff firms and insurers identify critical evidence, liability drivers, and damages patterns without hiring a full-time legal nurse consultant.",
+    "bullets": [
+      "Identify causation gaps and standard-of-care deviations",
+      "Standardize reviews: same checklist, 100+ cases",
+      "Extract damages timeline in 15 minutes",
+      "Spot inconsistencies paralegals typically miss"
+    ],
+    "pdfUrl": "/guides/pdf/medical-record-review-checklist.pdf",
+    "category": "How-To"
+  }
+]

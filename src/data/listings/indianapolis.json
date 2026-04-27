@@ -1,0 +1,136 @@
+[
+  {
+    "slug": "logos-legal-nurse-consulting-llc-indianapolis",
+    "name": "Logos Legal Nurse Consulting, LLC",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "Not provided",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "Not provided",
+    "website": "https://www.logoslegalnurseconsulting.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal nurse consulting specializing in medical record review and analysis, case merit evaluation, and strategy building for attorneys and clients",
+    "certifications": [],
+    "services": [
+      "Medical record review",
+      "Case merit evaluation",
+      "Legal strategy development",
+      "Expert consultation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:46",
+    "sentiment": null
+  },
+  {
+    "slug": "paula-herring-consulting-indianapolis",
+    "name": "Paula Herring Consulting",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "Not provided",
+    "lat": 39.7684,
+    "lng": -86.1581,
+    "phone": "Not provided",
+    "website": "https://pherringconsulting.com",
+    "email": "paula@pherringconsulting.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal nurse consulting services including in-depth case analysis, medical reports, and expert testimony for injury lawyers and attorneys nationwide",
+    "certifications": [],
+    "services": [
+      "Case screening",
+      "Medical record analysis",
+      "Expert testimony",
+      "Comprehensive medical reports"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:46",
+    "sentiment": null
+  },
+  {
+    "slug": "proactive-medical-review-indianapolis",
+    "name": "Proactive Medical Review",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "Not provided",
+    "lat": 39.7683331,
+    "lng": -86.1583502,
+    "phone": "(812) 471-7777",
+    "website": "https://proactiveltcexperts.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Post-acute legal nurse consulting and medical review support specializing in medical malpractice, personal injury, long-term care litigation, and multiple other practice areas",
+    "certifications": [],
+    "services": [
+      "Medical record review",
+      "Case evaluation",
+      "Expert witness testimony",
+      "Deposition support",
+      "Trial support",
+      "Compliance investigations",
+      "Medical malpractice",
+      "Personal injury",
+      "Long-term care litigation",
+      "Product liability",
+      "Toxic tort",
+      "Workers' compensation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:46",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.97,
+      "keywords": [
+        "professionalism",
+        "expertise",
+        "regulatory compliance",
+        "responsiveness",
+        "training",
+        "tools & resources"
+      ],
+      "highlights": [
+        {
+          "text": "Proactive is simply outstanding in my book. Shelly and Amie are the epitome of professionalism.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their expertise in all the complex and ever changing issues has been invaluable to us.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "the best tools I have ever been given. Your mentoring will go a long way",
+          "sentiment": "positive"
+        },
+        {
+          "text": "went above and beyond to help us through a very serious and urgent matter with a State Survey",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Proactive Medical Review receives universally excellent testimonials from long-term care administrators praising their expertise, professionalism, training resources, and exceptional responsiveness to compliance and regulatory challenges."
+    }
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "slug": "brant-legal-nurse-consultants-llc-columbus",
+    "name": "Brant Legal Nurse Consultants, LLC",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9622601,
+    "lng": -83.0007065,
+    "phone": "(614) 270-1930",
+    "website": "https://www.brantlnc.com",
+    "email": "Beth@BrantLNC.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides medicolegal services including medical record review, chronology and timeline preparation, case opinions, trial preparation, and translation of medical terms for legal teams.[1]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:06",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.82,
+      "keywords": [
+        "expert",
+        "honest",
+        "cost-effective",
+        "satisfaction guarantee",
+        "professional",
+        "responsive"
+      ],
+      "highlights": [
+        {
+          "text": "honest, expert, cost-effective medical-legal consulting services",
+          "sentiment": "positive"
+        },
+        {
+          "text": "100% satisfaction guarantee\u2014will revise work to meet your specifications",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Reputable firm emphasizing expertise, affordability, and strong customer commitment through unconditional satisfaction guarantees and revision policies."
+    }
+  },
+  {
+    "slug": "clb-legal-nurse-consulting-llc-columbus",
+    "name": "CLB Legal Nurse Consulting, LLC",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9622601,
+    "lng": -83.0007065,
+    "phone": "1777027328",
+    "website": "https://clblegalnurseconsulting.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers litigation support for medical malpractice, toxic tort, products liability, nursing home litigation, workplace injury, and personal injury/wrongful death cases.[3]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:06",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "dependable",
+        "knowledgeable",
+        "prompt",
+        "thorough",
+        "professional",
+        "personable"
+      ],
+      "highlights": [
+        {
+          "text": "She is a talented nurse consultant and she tackles each project with vigor and thoroughness",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I definitely recommend her",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Cindy is good to work with, she knows her stuff",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I have found Cindy to be dependable, prompt, and knowledgeable",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Glowing professional recommendation highlighting Cindy Burhoe's reliability, expertise, accessibility, and quality work as a nurse consultant."
+    }
+  },
+  {
+    "slug": "jennifer-orr-legal-nurse-consulting-columbus",
+    "name": "Jennifer Orr Legal Nurse Consulting",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9622601,
+    "lng": -83.0007065,
+    "phone": "1777216377",
+    "website": "https://nurselegalconsultant.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Supports medical malpractice and personal injury attorneys with case review, expert witness sourcing, litigation facilitation, and nurse observer services during IME/DME.[8]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:06",
+    "sentiment": null
+  },
+  {
+    "slug": "ohio-legal-nurse-consulting-columbus",
+    "name": "Ohio Legal Nurse Consulting",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "1748611580",
+    "website": "https://www.legalnurseconsult.com",
+    "email": "Request@LegalNurseConsult.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides medical record organization, case chronology, error spotting, medical simplification, and healthcare deposition guidance for attorneys and families.[7]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:06",
+    "sentiment": null
+  },
+  {
+    "slug": "trompak-associates-legal-nurse-consulting-columbus",
+    "name": "Trompak & Associates Legal Nurse Consulting",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "2545352419",
+    "website": "https://www.trompakconsulting.com",
+    "email": "1eeb89147c984dc6bc3ffafd9e6cd089@sentry.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Delivers medical consultant services and testifying expert services for attorneys in medical-related litigation.[9]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:06",
+    "sentiment": null
+  }
+]

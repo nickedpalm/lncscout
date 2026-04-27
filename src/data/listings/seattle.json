@@ -1,0 +1,193 @@
+[
+  {
+    "slug": "lakeview-legal-nurse-consulting-llc-seattle",
+    "name": "Lakeview Legal Nurse Consulting, LLC",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "Not available",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "Not available",
+    "website": "https://www.lakeviewlegalnurseconsulting.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal nurse consulting firm specializing in healthcare system navigation through medical record review, summarization, and interpretation for attorney clients.",
+    "certifications": [],
+    "services": [
+      "medical record review",
+      "record summarization",
+      "record interpretation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:23",
+    "sentiment": null
+  },
+  {
+    "slug": "ob-legal-nurse-consultant-lindsay-b-mcdevitt-rn-seattle",
+    "name": "OB Legal Nurse Consultant (Lindsay B. McDevitt RN)",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "Not available",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "Not available",
+    "website": "https://oblegalnurseconsultant.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Solo practitioner specializing in obstetric medical malpractice case review since 2015. Active member of Association of Legal Nurse Consultants, AWHONN, and Washington State Nurses Association. Certified in Inpatient Obstetrics and Advanced Electronic Fetal Monitoring.",
+    "certifications": [],
+    "services": [
+      "medical malpractice review",
+      "obstetric expertise",
+      "plaintiff and defense opinions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:23",
+    "sentiment": null
+  },
+  {
+    "slug": "portside-legal-nurse-consulting-seattle",
+    "name": "Portside Legal Nurse Consulting",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "Not available",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "Not available",
+    "website": "https://portsidelegalnurse.com",
+    "email": "info@portsidelegalnurse.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal nurse consulting firm offering merit screening, medical chronology of events, expert witness procurement, and nurse advocate services for defense medical exams. 20+ years of nursing experience.",
+    "certifications": [],
+    "services": [
+      "merit screening",
+      "medical chronology",
+      "expert witness location",
+      "nurse advocacy"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:23",
+    "sentiment": null
+  },
+  {
+    "slug": "rmp-legal-rachel-m-patterson-rn-clnc-seattle",
+    "name": "RMP Legal (Rachel M Patterson RN CLNC)",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "Not available",
+    "lat": 47.6038321,
+    "lng": -122.330062,
+    "phone": "Not available",
+    "website": "http://www.rmplegal.net",
+    "email": "rachel@rmplegal.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified Legal Nurse Consultant with 38 years of nursing experience. Services include medical record analysis, injury and damages assessment, causation identification, record interpretation, defendant identification, and discovery/deposition support.",
+    "certifications": [],
+    "services": [
+      "medical record analysis",
+      "damages assessment",
+      "causation analysis",
+      "discovery support",
+      "deposition assistance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:23",
+    "sentiment": null
+  },
+  {
+    "slug": "trifecta-legal-nurse-consulting-seattle",
+    "name": "Trifecta Legal Nurse Consulting",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "Not available",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "Not available",
+    "website": "https://trifectalegalnurse.com",
+    "email": "khanken@trifectalegalnurse.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Team of legal and forensic nurses providing opinions and testimony on liability, causation, damages, pain and suffering, and criminal/forensic issues. Nationwide network for expert witness location and Independent Medical Exam support.",
+    "certifications": [],
+    "services": [
+      "expert testimony",
+      "liability analysis",
+      "causation assessment",
+      "damages evaluation",
+      "IME support",
+      "expert witness location"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:04:23",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "expertise",
+        "caring",
+        "knowledgeable",
+        "passionate",
+        "excellent"
+      ],
+      "highlights": [
+        {
+          "text": "There are not enough gold stars to give this amazing lady, and hands down one of the best I've worked with!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The Trifecta Legal Nurse Consulting Team's forensic nursing expertise has absolutely been a game-changer for me",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their nurses have an in-depth knowledge of the medicine which provides us and our clients with a benefit",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Her caring personality runs deep throughout her business and touches every client that works with her",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Trifecta Legal Nurse Consulting receives overwhelmingly positive reviews praising professional expertise, caring approach, and exceptional service quality in legal and forensic nursing."
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "advanced-practice-legal-kansas-city",
+    "name": "Advanced Practice Legal",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "",
+    "lat": 39.100105,
+    "lng": -94.5781416,
+    "phone": "1764319619",
+    "website": "https://advancedpracticelegal.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal nurse consulting services helping juries, lawyers, prosecutors, and judges understand medical procedures and translate complicated medical jargon.",
+    "certifications": [],
+    "services": [
+      "medical procedure explanation",
+      "jargon translation",
+      "case consultation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:46",
+    "sentiment": null
+  },
+  {
+    "slug": "broadhurst-associates-kansas-city",
+    "name": "Broadhurst & Associates",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "",
+    "lat": 39.100105,
+    "lng": -94.5781416,
+    "phone": "1490157756",
+    "website": "http://www.broadhurstlegalnurse.com",
+    "email": "sherry@broadhurstlegalnurse.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal nurse consulting firm specializing in healthcare system expertise, screening medical cases to identify adherence to and deviations from standards of care.",
+    "certifications": [],
+    "services": [
+      "medical records review and analysis",
+      "case screening",
+      "standards of care evaluation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:46",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [
+        "experienced",
+        "healthcare expertise",
+        "cost-effective",
+        "bridge gap",
+        "solution-oriented",
+        "professional"
+      ],
+      "highlights": [
+        {
+          "text": "I have more than 30 years of health care experience as a registered nurse and 5 years as an adult acute care nurse practitioner",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We can help bridge the gap between law and medicine in a cost-effective way and make the medical record your strongest witness",
+          "sentiment": "positive"
+        },
+        {
+          "text": "My diverse career has given me actual experiences with many of the issues you face in your practice",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Our practice is your solution",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Professional marketing content presenting strong medical expertise, cost-effectiveness, and solution-focused positioning with no negative feedback present."
+    }
+  },
+  {
+    "slug": "kansas-city-legal-nurse-consulting-kansas-city",
+    "name": "Kansas City Legal Nurse Consulting",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "",
+    "lat": 39.100105,
+    "lng": -94.5781416,
+    "phone": "374-6135000",
+    "website": "https://www.kclnc.com",
+    "email": "54b4aac306184111a223c0f4aea635c3@sentry.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal nurse consulting agency with over 18 years of experience in emergency, triage, and trauma, serving Kansas City and surrounding areas.",
+    "certifications": [],
+    "services": [
+      "medical records review",
+      "case screening",
+      "expert consultation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:46",
+    "sentiment": null
+  },
+  {
+    "slug": "lnc-of-the-ozarks-kansas-city",
+    "name": "LNC of the Ozarks",
+    "city": "Kansas City",
+    "state": "MO",
+    "address": "",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Comprehensive consulting firm bringing attorneys and nurses together for medical records review, analysis, and interpretation to create organized reports strengthening legal cases.",
+    "certifications": [],
+    "services": [
+      "medical records review",
+      "analysis and interpretation",
+      "organized case reports"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:03:46",
+    "sentiment": null
+  }
+]

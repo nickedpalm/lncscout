@@ -1,0 +1,50 @@
+[
+  {
+    "question": "How much does a legal nurse consultant charge for a case review?",
+    "answer": "Most legal nurse consultants charge $150\u2013$300 per hour for case reviews, with flat-rate engagements ranging from $2,000\u2013$10,000 depending on complexity and records volume. Plaintiff firms typically pay more for comprehensive merit reports than defense engagements. Budget for early screening reviews separately \u2014 they're lower cost and can prevent spending on non-meritorious claims."
+  },
+  {
+    "question": "How much does a life care plan or damages report cost?",
+    "answer": "Life care plans generally run $3,000\u2013$10,000 depending on injury severity, number of treating providers, and whether physician consultations are needed. Turnaround is typically 2\u20136 weeks. Complex catastrophic injury cases with extensive future care projections cost more. Request an itemized estimate upfront to avoid scope creep."
+  },
+  {
+    "question": "What certifications should a legal nurse consultant have?",
+    "answer": "Look for active RN licensure and a recognized credential such as CLNC (Certified Legal Nurse Consultant). Beyond credentials, 10+ years of clinical experience in the relevant specialty \u2014 orthopedics, neurology, oncology \u2014 matters more than certification alone. Ask for anonymized case samples before hiring."
+  },
+  {
+    "question": "How do legal nurse consultants identify a breach in the standard of care?",
+    "answer": "LNCs compare the care delivered against specialty-specific clinical guidelines, assess documentation completeness and timing, and distinguish negligence from recognized complications. Findings are translated into plain-language summaries with citations to applicable standards. Vague or conclusory opinions without guideline references are a red flag."
+  },
+  {
+    "question": "How do you distinguish injuries caused by an accident from pre-existing conditions?",
+    "answer": "LNCs cross-reference pre-incident records, imaging, treatment history, and biomechanical basics against post-incident findings to isolate new injuries versus exacerbations. Insurers routinely challenge causation, so this analysis needs to be documented with specific record citations. Inaccurate causation opinions directly affect damages valuations."
+  },
+  {
+    "question": "What is the typical timeline for a case merit review?",
+    "answer": "A focused merit screening \u2014 reviewing records and producing a written opinion \u2014 typically takes 1\u20132 weeks for cases under 500 pages. Larger records sets or cases requiring physician input take longer. Confirm turnaround expectations in writing before engagement, especially near filing deadlines."
+  },
+  {
+    "question": "Do legal nurse consultants work for both plaintiff and defense firms?",
+    "answer": "Most do. For plaintiffs, LNCs engage early to assess merit and quantify damages. Defense engagements typically begin post-discovery to challenge causation and reduce claimed costs. Working both sides is common and not inherently a conflict, but ask about any direct conflicts on your specific case."
+  },
+  {
+    "question": "Can a legal nurse consultant help prepare deposition questions for medical witnesses?",
+    "answer": "Yes. LNCs can draft targeted deposition outlines, suggest records requests, flag inconsistencies to probe, and create medical timelines or chronologies for use at deposition and trial. This preparation is often where LNC involvement has the highest ROI relative to its cost."
+  },
+  {
+    "question": "How should LNC findings be presented to non-medical attorneys and juries?",
+    "answer": "Effective LNC reports use plain language, medical timelines, annotated exhibits, and a clear distinction between disputed and undisputed facts \u2014 not record summaries. If a report reads like a chronological narrative without analysis, it will not serve attorneys preparing arguments or experts preparing testimony."
+  },
+  {
+    "question": "Do state-specific standards of care affect how an LNC analyzes a malpractice case?",
+    "answer": "Yes. Standards of care vary by state, facility type, and specialty. An LNC unfamiliar with local clinical guidelines, regulatory requirements, or regional practice norms may miss venue-specific arguments. Confirm that the LNC has experience in the relevant jurisdiction or can access applicable state-level standards."
+  },
+  {
+    "question": "What are the biggest red flags when hiring a legal nurse consultant?",
+    "answer": "Avoid LNCs who summarize records without forming opinions, cannot provide anonymized work samples, lack clinical experience in the relevant specialty, or are vague about methodology. Also scrutinize anyone who guarantees favorable outcomes \u2014 objectivity is the core value of an LNC opinion."
+  },
+  {
+    "question": "Do some legal nurse consultants subcontract case work, and does that matter?",
+    "answer": "Some LNCs subcontract overflow work, typically paying subcontractors 50\u201370% of the fee. This isn't inherently problematic, but confirm who performs the analysis, who signs the report, and how quality is reviewed. Subcontracting without disclosure can create inconsistency and complicate privilege if the arrangement surfaces in discovery."
+  }
+]

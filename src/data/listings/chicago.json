@@ -1,0 +1,143 @@
+[
+  {
+    "slug": "liz-rivera-consulting-chicago",
+    "name": "Liz Rivera Consulting",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "6666666666",
+    "website": "https://lizriveralegalnurse.com",
+    "email": "astigma@astigmatic.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal nurse consultant with 10 years of ICU nursing experience, specializing in Cardiac Intensive Care.",
+    "certifications": [],
+    "services": [
+      "ICU case reviews",
+      "Cardiac care expertise"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:42",
+    "sentiment": null
+  },
+  {
+    "slug": "mila-carlson-nurse-consulting-chicago",
+    "name": "Mila Carlson Nurse Consulting",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8755616,
+    "lng": -87.6244212,
+    "phone": "0833333333",
+    "website": "https://www.milacarlson.com/nurse-consulting-services",
+    "email": "mila@milacarlson.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides legal nurse consulting services using nursing background for attorneys, healthcare organizations, and legal liability reviews.",
+    "certifications": [],
+    "services": [
+      "Legal nurse consulting",
+      "Medical case reviews for liability"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:42",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "excellent deposition",
+        "expert calculations",
+        "substantial settlement",
+        "professional expertise",
+        "major factors"
+      ],
+      "highlights": [
+        {
+          "text": "Excellent deposition were major factors in arriving at a substantial settlement",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Ms. Carlson's calculations of the cost of future medical care...were major factors",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Attorney praised Ms. Carlson's expert calculations and excellent deposition testimony as major contributors to achieving a substantial client settlement."
+    }
+  },
+  {
+    "slug": "simaytis-legal-nurse-consulting-llc-chicago",
+    "name": "Simaytis Legal Nurse Consulting, LLC",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "0588235294",
+    "website": "https://legalrn-consult.com",
+    "email": "%20simaytis@legalrn-consult.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Founded in 2020 by Deborah Simaytis, specializing in analyzing complex medical histories for legal cases.",
+    "certifications": [],
+    "services": [
+      "Medical record analysis",
+      "Legal nurse consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:42",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "skilled",
+        "thorough",
+        "responsive",
+        "excellent turnaround",
+        "detailed reports",
+        "dedicated"
+      ],
+      "highlights": [
+        {
+          "text": "skilled in analyzing long term care facility charts and highlighting negligence",
+          "sentiment": "positive"
+        },
+        {
+          "text": "wealth of knowledge and expertise to assist in serving as an expert",
+          "sentiment": "positive"
+        },
+        {
+          "text": "turnaround time is excellent, their reports are detailed and address deviations to Standard of Care",
+          "sentiment": "positive"
+        },
+        {
+          "text": "excellent analysis of facts. Communication in appropriate and understandable fashion",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Consistently positive reviews across multiple legal clients praising Deborah's expertise, thoroughness, responsiveness, and professionalism in nursing home negligence case analysis and Standard of Care evaluations."
+    }
+  }
+]

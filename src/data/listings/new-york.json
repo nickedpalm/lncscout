@@ -1,0 +1,187 @@
+[
+  {
+    "slug": "julia-sze-and-associates-llc-new-york",
+    "name": "Julia Sze and Associates, LLC",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "917-407-5522",
+    "website": "http://julialegalnurse.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified legal nurse consulting with over 14 years nursing experience providing cost-effective medical consulting services.",
+    "certifications": [],
+    "services": [
+      "medical consulting",
+      "record review",
+      "case analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:10",
+    "sentiment": null
+  },
+  {
+    "slug": "kurtz-legal-nurse-consulting-llc-new-york",
+    "name": "Kurtz Legal Nurse Consulting, LLC",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "2459127310",
+    "website": "https://www.kurtzlegalnurseconsulting.com",
+    "email": "EK@KurtzLegalNurseConsulting.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal nurse consulting firm supporting attorneys, insurance companies, hospitals with diligent medical analysis and litigation assistance.",
+    "certifications": [],
+    "services": [
+      "medical record review",
+      "case support",
+      "expert analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:10",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "invaluable",
+        "thorough",
+        "professional",
+        "expert analysis",
+        "reliable",
+        "detailed"
+      ],
+      "highlights": [
+        {
+          "text": "invaluable resource for my company...unique ability to go through voluminous records",
+          "sentiment": "positive"
+        },
+        {
+          "text": "prepare an excellent chronology and summary",
+          "sentiment": "positive"
+        },
+        {
+          "text": "All of our attorneys who have used her in the past have raved about her work",
+          "sentiment": "positive"
+        },
+        {
+          "text": "recommend her without reservation",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Ellen Kurtz is highly regarded by legal professionals for her meticulous record analysis, case insights, and exceptional written summaries."
+    }
+  },
+  {
+    "slug": "legal-nurse-consultants-network-llc-new-york",
+    "name": "Legal Nurse Consultants Network LLC",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "phone": "1659630008",
+    "website": "https://thelegalnurses.com",
+    "email": "sandra@thelegalnurses.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Network connecting attorneys with legal nurse consultants, DME advocates, and expert witnesses for comprehensive health-related case support.",
+    "certifications": [],
+    "services": [
+      "medical record review",
+      "expert witness referral",
+      "litigation support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:10",
+    "sentiment": null
+  },
+  {
+    "slug": "mfw-consultants-new-york",
+    "name": "MFW Consultants",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "6666666666",
+    "website": "https://mfwconsultants.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified legal nurse consulting services specializing in defense of nurses, support staff, and healthcare organizations, including medical record review, timeline creation, literature search, demonstrative evidence, and testimony.",
+    "certifications": [],
+    "services": [
+      "medical record review",
+      "report development",
+      "timeline creation",
+      "deposition and trial testimony"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:10",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "empathetic",
+        "transformational",
+        "knowledgeable",
+        "confidence-building",
+        "self-discovery",
+        "career coaching"
+      ],
+      "highlights": [
+        {
+          "text": "She listens, she relates, she sees you, and she understands.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Spend 90 minutes with her. It will change you.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "She has truly helped me deal with my isolation, frustration, and sense of powerlessness.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I was astounded at how much she made me realize I've really accomplished.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Overwhelmingly positive reputation: clients consistently praise Phyllis's empathetic listening, deep expertise, and transformational ability to restore confidence and self-awareness through career coaching."
+    }
+  }
+]

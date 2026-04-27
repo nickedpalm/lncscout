@@ -1,0 +1,167 @@
+{
+  "name": "Legal Nurse Consultants",
+  "brandName": "LNCScout",
+  "slug": "lncscout",
+  "domain": "lncscout.com",
+  "siteUrl": "https://lncscout.com",
+  "tagline": "LNCC-certified legal nurse consultants, independently rated.",
+  "description": "The most comprehensive directory of LNCC- and CLNC-credentialed legal nurse consultants offering medical record review, litigation support, and expert witness services across the United States.",
+  "jobValue": "$2,000-10,000 per case engagement",
+  "industry": "legal",
+  "primaryKeyword": "legal nurse consultant",
+  "secondaryKeywords": [
+    "litigation nurse consultant",
+    "medical record review nurse",
+    "nurse expert witness",
+    "medical malpractice case review",
+    "life care planner attorney",
+    "healthcare litigation support"
+  ],
+  "certifications": [
+    "LNCC (Legal Nurse Consultant Certified - AALNC)",
+    "CLNC (Certified Legal Nurse Consultant - Vickie Milazzo Institute)",
+    "CNLCP (Certified Nurse Life Care Planner)",
+    "MSCC (Medicare Set-Aside Certified Consultant)",
+    "CRRN (Certified Rehabilitation Registered Nurse)",
+    "CPHRM (Certified Professional in Healthcare Risk Management)"
+  ],
+  "extraFields": [],
+  "cityPagePromptContext": "Legal nurse consultants (LNCs) are registered nurses who apply clinical expertise to legal proceedings.\nCredentialed professionals (LNCC, CLNC) review medical records, identify deviations from the standard of care, locate and screen expert witnesses, and prepare litigation support materials for attorneys and insurers. Law firms retain them for medical malpractice, personal injury, workers' compensation, and product liability matters; insurance companies use them for claims review and coverage analysis. LNCs may also serve as testifying expert witnesses or develop certified life care plans that quantify long-term care costs for damages calculations.\n",
+  "contactEmail": "contact@lncscout.com",
+  "buyerPersona": "plaintiff firms and insurers",
+  "servicePhrase": "legal nurse consulting",
+  "primaryCredential": "LNCC",
+  "buyerSearchContext": "when building a medical malpractice case, evaluating personal injury claims, or needing a life care plan for damages calculations",
+  "editorialAuthor": {
+    "name": "Nick Palmer",
+    "title": "Founder & Lead Researcher",
+    "bio": "Nick built this directory to help plaintiff attorneys and insurers find credentialed legal nurse consultants without sifting through generalist consultants who lack the clinical depth for complex litigation \u2014 a frustration he encountered when researching medical expert resources for a personal injury case.",
+    "linkedin": "https://linkedin.com/in/nickedpalmer"
+  },
+  "stripeSponsoredLink": "",
+  "stripeCityProLink": "",
+  "stripeFeaturedMonthlyLink": "https://buy.stripe.com/8x214m4b07lC4Pa7Ila3u42",
+  "stripeFeaturedAnnualLink": "https://buy.stripe.com/dRm8wOazo7lC5Te7Ila3u43",
+  "stripeCityProMonthlyLink": "https://buy.stripe.com/8x27sKcHw8pGftO7Ila3u44",
+  "stripeCityProAnnualLink": "https://buy.stripe.com/4gM5kC36W35mftOaUxa3u45",
+  "stripeFeaturedProductId": "prod_UFN17qt3nXs1lT",
+  "stripeCityProProductId": "prod_UFN1TVq3ZbhL86",
+  "stripeFeaturedMonthlyPriceId": "price_1TQf7CCIgRyRDQ2PxAafKqF9",
+  "stripeFeaturedAnnualPriceId": "price_1TQf7DCIgRyRDQ2Px0oFw9kQ",
+  "stripeCityProMonthlyPriceId": "price_1TQf7FCIgRyRDQ2PL2GOnXEp",
+  "stripeCityProAnnualPriceId": "price_1TQf7HCIgRyRDQ2PwpmthNnX",
+  "pricing": {
+    "featuredMonthlyUsd": 49,
+    "featuredAnnualUsd": 441,
+    "cityProMonthlyUsd": 149,
+    "cityProAnnualUsd": 1341
+  },
+  "listmonkListId": "12",
+  "listmonkTplMagicLink": "68",
+  "listmonkTplLeadNotify": "69",
+  "listmonkTplGuideDelivery": "70",
+  "ga4MeasurementId": "G-KL2P3E3D99",
+  "turnstileSitekey": "",
+  "turnsiteSitekey": "",
+  "googleAnalyticsId": "G-KL2P3E3D99",
+  "foundedYear": 2026,
+  "listings": {
+    "schema": [
+      {
+        "key": "lncc_certified",
+        "type": "boolean",
+        "label": "LNCC Certified (AALNC)",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for \"LNCC\" credential after name, AALNC membership badge, or explicit statement of LNCC certification on homepage, about page, or credentials section."
+      },
+      {
+        "key": "years_experience",
+        "type": "number",
+        "label": "Years of Experience",
+        "display": "range",
+        "facet": false,
+        "unit": "years",
+        "scrape_hint": "Extract from 'About Us', team bios, or '20+ years in legal nursing' statements; calculate from founding year if business start date is provided."
+      },
+      {
+        "key": "practice_areas",
+        "type": "multi_enum",
+        "label": "Legal Practice Areas Served",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Medical Malpractice",
+          "Personal Injury",
+          "Workers' Compensation",
+          "Product Liability",
+          "Insurance Defense",
+          "Mass Tort"
+        ],
+        "scrape_hint": "Parse services menu, case type pages, or client descriptions; match keywords like 'malpractice', 'personal injury', 'workers comp', 'product liability', 'defense firm', or 'mass tort'."
+      },
+      {
+        "key": "testifying_expert",
+        "type": "boolean",
+        "label": "Available as Testifying Expert Witness",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Check for mentions of 'expert witness', 'testifying expert', 'deposition experience', or 'trial testimony' in services or bio sections."
+      },
+      {
+        "key": "life_care_planner",
+        "type": "boolean",
+        "label": "Certified Life Care Planner",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for CNLCP credential, 'life care plan', 'future medical cost analysis', or 'catastrophic injury planning' in services or credentials."
+      },
+      {
+        "key": "report_turnaround",
+        "type": "enum",
+        "label": "Report Turnaround Time",
+        "display": "text",
+        "facet": true,
+        "enum": [
+          "Rush (< 1 Week)",
+          "1-2 Weeks",
+          "2-4 Weeks",
+          "4+ Weeks"
+        ],
+        "scrape_hint": "Extract from service descriptions, FAQs, or 'What to Expect' sections; look for phrases like 'report within 10 business days' or 'rush review available'."
+      },
+      {
+        "key": "service_types",
+        "type": "multi_enum",
+        "label": "Services Offered",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Medical Record Review",
+          "Standard of Care Analysis",
+          "Expert Witness Referral",
+          "Life Care Planning",
+          "Medicare Set-Aside Analysis",
+          "Deposition Support"
+        ],
+        "scrape_hint": "Parse services menu or homepage offerings; match keywords like 'record review', 'standard of care', 'expert referral', 'life care plan', 'MSA', or 'deposition prep'."
+      },
+      {
+        "key": "phone",
+        "type": "phone",
+        "label": "Phone Number",
+        "display": "text",
+        "facet": false,
+        "scrape_hint": "Extract from header, footer, contact page, or click-to-call buttons; normalize to standard format (e.g., (555) 123-4567)."
+      },
+      {
+        "key": "website",
+        "type": "url",
+        "label": "Website",
+        "display": "link",
+        "facet": false,
+        "scrape_hint": "Capture primary domain from browser address bar, homepage links, or business listings; ensure full URL with https:// protocol."
+      }
+    ]
+  }
+}

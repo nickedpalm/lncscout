@@ -1,0 +1,84 @@
+[
+  {
+    "slug": "alexan-legal-nurse-consulting-new-orleans",
+    "name": "Alexan Legal Nurse Consulting",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "Not provided",
+    "lat": 29.9561422,
+    "lng": -90.0733934,
+    "phone": "Not provided",
+    "website": "https://alexanlnc.com",
+    "email": "info@alexanLNC.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "High-quality, accurate and affordable medical legal case reviews for law firms and insurance companies with consultants from various clinical backgrounds",
+    "certifications": [],
+    "services": [
+      "medical legal case reviews",
+      "case analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:33",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.89,
+      "keywords": [
+        "expertise",
+        "medicine",
+        "client-focused",
+        "comprehensive service",
+        "professional",
+        "support"
+      ],
+      "highlights": [
+        {
+          "text": "We know medicine; we know the issues, and we know what clients need to prevail.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "From reviewing medical records to locating expert witnesses, we're here for our clients at every stage of a case.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Alexan Legal Nurse Consulting projects strong medical expertise and comprehensive client support, positioned as a trusted partner throughout all stages of legal case preparation."
+    }
+  },
+  {
+    "slug": "just-in-case-llc-new-orleans",
+    "name": "Just In Case LLC",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "Not provided",
+    "lat": 29.9561422,
+    "lng": -90.0733934,
+    "phone": "Not provided",
+    "website": "https://www.justincaselegalnurse.com",
+    "email": "contact@mysite.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Comprehensive legal nurse consulting services for attorneys, insurance companies, and individuals in cases involving medical elements",
+    "certifications": [],
+    "services": [
+      "legal nurse consulting",
+      "medical case review"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:33",
+    "sentiment": null
+  }
+]

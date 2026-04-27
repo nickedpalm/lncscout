@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "assurance-of-care-dallas",
+    "name": "Assurance of Care",
+    "city": "Dallas",
+    "state": "TX",
+    "address": "",
+    "lat": 32.7762719,
+    "lng": -96.7968559,
+    "phone": "469-718-9112",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal Nurse Consultant specializing in cardiology, nursing negligence, medical malpractice, and product liability cases. Services include record organization, case reviews for merit, timelines, record tampering reviews, and medical history research.",
+    "certifications": [],
+    "services": [
+      "record organization",
+      "case merit reviews",
+      "medical timelines",
+      "record tampering analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:17",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "slug": "integrity-legal-nurse-consulting-pdx-portland",
+    "name": "Integrity Legal Nurse Consulting PDX",
+    "city": "Portland",
+    "state": "OR",
+    "address": "Not provided",
+    "lat": 45.5202471,
+    "lng": -122.674194,
+    "phone": "Not provided",
+    "website": "https://legalnursepdx.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Expert medical analysis and support to civil and criminal defense attorneys",
+    "certifications": [],
+    "services": [
+      "civil defense support",
+      "criminal defense support",
+      "medical analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:26",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "exceptional",
+        "knowledgeable",
+        "organized",
+        "expertise",
+        "helpful"
+      ],
+      "highlights": [
+        {
+          "text": "I'm blown away by your professionalism and advocacy.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The nurse I worked with was exceptional and very informative.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I LOVED being so well organized and knowledgeable about those medical records.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "expertise has always been worth the money",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Consistently praised by legal professionals for exceptional expertise, professionalism, and thorough handling of complex medical cases with proven results."
+    }
+  },
+  {
+    "slug": "medical-record-review-analysis-mrn-portland",
+    "name": "Medical Record Review & Analysis (MRN)",
+    "city": "Portland",
+    "state": "OR",
+    "address": "Not provided",
+    "lat": 45.5202471,
+    "lng": -122.674194,
+    "phone": "Not provided",
+    "website": "https://www.medres.net",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Critical analysis of complex medical issues using RN health science background",
+    "certifications": [],
+    "services": [
+      "medical record review",
+      "medical analysis",
+      "legal nurse consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:26",
+    "sentiment": null
+  },
+  {
+    "slug": "willamette-nurse-consultant-group-portland",
+    "name": "Willamette Nurse Consultant Group",
+    "city": "Portland",
+    "state": "OR",
+    "address": "Not provided",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "phone": "Not provided",
+    "website": "https://willamettenurseconsultantgroup.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Workers' Compensation Nurse Case Management, Elder Case Management, Trust/Guardian Case Management, and Legal Nurse Consulting",
+    "certifications": [],
+    "services": [
+      "workers' compensation case management",
+      "elder case management",
+      "trust/guardian case management",
+      "legal nurse consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:26",
+    "sentiment": null
+  }
+]

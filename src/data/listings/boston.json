@@ -1,0 +1,243 @@
+[
+  {
+    "slug": "barbara-j-levin-legal-nurse-consultant-boston",
+    "name": "Barbara J. Levin, Legal Nurse Consultant",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3588336,
+    "lng": -71.0578303,
+    "phone": "2545352419",
+    "website": "https://www.barbarajlevin.com",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified Legal Nurse Consultant (LNCC) providing expert consultation and education in legal cases, with experience in orthopaedic trauma at Massachusetts General Hospital.",
+    "certifications": [],
+    "services": [
+      "expert consultation",
+      "education for legal cases",
+      "medical records review"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:48",
+    "sentiment": null
+  },
+  {
+    "slug": "jane-shufro-ms-nurse-consultant-boston",
+    "name": "Jane Shufro MS, Nurse Consultant",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3588336,
+    "lng": -71.0578303,
+    "phone": "3333333333",
+    "website": "https://janeshufrolnc.com",
+    "email": "jane@janeshufrolnc.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Clinically active nurse with over 35 years experience providing expertise on healthcare system and litigation process for legal cases.",
+    "certifications": [],
+    "services": [
+      "medical records analysis",
+      "litigation support",
+      "healthcare expertise"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:48",
+    "sentiment": null
+  },
+  {
+    "slug": "kurtz-legal-nurse-consulting-llc-boston",
+    "name": "Kurtz Legal Nurse Consulting, LLC",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3588336,
+    "lng": -71.0578303,
+    "phone": "2459127310",
+    "website": "https://www.kurtzlegalnurseconsulting.com",
+    "email": "EK@KurtzLegalNurseConsulting.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides support to attorneys, insurance companies, hospitals, and healthcare agencies with diligent and insightful legal nurse consulting.",
+    "certifications": [],
+    "services": [
+      "medical records review",
+      "case analysis",
+      "litigation support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "thorough",
+        "expertise",
+        "reliable",
+        "professional",
+        "detail-oriented",
+        "trustworthy"
+      ],
+      "highlights": [
+        {
+          "text": "unique ability to go through voluminous records and prepare an excellent chronology",
+          "sentiment": "positive"
+        },
+        {
+          "text": "All of our attorneys who have used her in the past have raved about her work",
+          "sentiment": "positive"
+        },
+        {
+          "text": "invaluable insights on the validity of cases",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I can recommend her without reservation",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Highly respected legal nurse consultant praised by attorneys for exceptional thoroughness, expertise in case analysis, and invaluable professional insights."
+    }
+  },
+  {
+    "slug": "legal-nurse-solutions-llc-boston",
+    "name": "Legal Nurse Solutions, LLC",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "781-799-4662",
+    "website": "https://www.legalnursesolutions.net",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers medical records review, interpretation, analysis for plaintiff and defense clients in any medical specialty; can locate testifying experts.",
+    "certifications": [],
+    "services": [
+      "medical records review",
+      "interpretation",
+      "analysis",
+      "expert witness location"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "expertise",
+        "professional",
+        "responsive",
+        "reliable",
+        "exceptional",
+        "knowledgeable"
+      ],
+      "highlights": [
+        {
+          "text": "BEST Nurse, tremendous expertise and knowledge around the legal cases!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Fast, reliable and excellent service! Would recommend for any case needs.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "She was exceptional to work with and receptive to my feedback.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Her unique 20+ years of clinical experience shine as an expert witness.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Universally praised for exceptional expertise, professionalism, responsiveness, and 20+ years of clinical experience in legal nursing consulting."
+    }
+  },
+  {
+    "slug": "paige-legal-nurse-consulting-boston",
+    "name": "Paige Legal Nurse Consulting",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "3333333333",
+    "website": "https://www.paigelegalnurse.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Owner with 27 years of hospital experience in various specialties, actively practicing nursing, offering legal nurse consulting services.",
+    "certifications": [],
+    "services": [
+      "medical records review",
+      "case evaluation",
+      "nursing expertise"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:02:48",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "legal nursing consultation",
+        "healthcare expertise",
+        "case review",
+        "medical evaluation",
+        "professional"
+      ],
+      "highlights": [
+        {
+          "text": "I LOVE YOU!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Our legal nurse consultants can provide expertise on nursing, the healthcare system, and its inner workings.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Giving back......",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Limited testimonial data suggests positive client satisfaction, with strong emotional endorsement and emphasis on professional healthcare expertise."
+    }
+  }
+]

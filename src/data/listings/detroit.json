@@ -1,0 +1,124 @@
+[
+  {
+    "slug": "amo-consulting-llc-detroit",
+    "name": "A.M.O Consulting, LLC",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "lat": 42.3315509,
+    "lng": -83.0466403,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal nurse consultant services including medical record review, opinions on standard of care, and court testimony for medical malpractice, personal injury, and related cases.",
+    "certifications": [],
+    "services": [
+      "medical record review",
+      "standard of care opinions",
+      "expert testimony"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:04",
+    "sentiment": null
+  },
+  {
+    "slug": "lohmeier-consulting-detroit",
+    "name": "Lohmeier Consulting",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "lat": 42.3315509,
+    "lng": -83.0466403,
+    "phone": "3139093444",
+    "website": "http://lohmeierconsulting.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Legal nurse consulting with 28 years of active nursing experience in Detroit-area hospitals, recognizing breaches in standards of care.",
+    "certifications": [],
+    "services": [
+      "medical record review",
+      "standard of care analysis"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:04",
+    "sentiment": null
+  },
+  {
+    "slug": "sp-legal-nurse-consulting-detroit",
+    "name": "SP Legal Nurse Consulting",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "lat": 42.3314,
+    "lng": -83.0458,
+    "phone": "6495262684",
+    "website": "https://splegalnurse.com",
+    "email": "shaun@splegalnurse.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified legal nurse consultants assisting attorneys with medical records, chronologies, timelines, research, pain & suffering reports, medical needs reports, life care reports for personal injury, medical malpractice, and workers compensation cases.",
+    "certifications": [],
+    "services": [
+      "medical record review",
+      "chronologies and timelines",
+      "expert witness services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:05:04",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.97,
+      "keywords": [
+        "professional",
+        "prompt/responsive",
+        "detail-oriented",
+        "pleasure to work with",
+        "knowledgeable",
+        "personalized service"
+      ],
+      "highlights": [
+        {
+          "text": "Do not hesitate to put your cases in Shaun's hands, you will not be disappointed.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I would definitely do business with them again.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Professional and accurate, while also retaining personalized human experience.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Top-notch contributor with great attention to detail. Highly recommend!",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Overwhelmingly positive reviews consistently praise Shaun and SP Legal Nurse Consulting for professionalism, responsiveness, expertise, and a rare combination of big-company processes with personalized, attentive service."
+    }
+  }
+]

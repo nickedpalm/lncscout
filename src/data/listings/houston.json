@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "superior-legal-nurse-consulting-pllc-houston",
+    "name": "Superior Legal Nurse Consulting, PLLC",
+    "city": "Houston",
+    "state": "TX",
+    "address": "",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "phone": "2545352419",
+    "website": "https://www.superiorlegalnurseconsulting.com",
+    "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Certified Legal Nurse Consultant and Life Care Planner offering legal consulting services to attorneys and insurance firms for medical cases, including interpreting medical jargon, life care planning, and expert witness work.",
+    "certifications": [],
+    "services": [
+      "medical record review",
+      "life care planning",
+      "expert witness testimony",
+      "case preparation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:01:17",
+    "sentiment": null
+  }
+]

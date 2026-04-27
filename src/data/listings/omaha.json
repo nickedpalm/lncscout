@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "moonstruck-legal-nurse-consulting-omaha",
+    "name": "Moonstruck Legal Nurse Consulting",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "",
+    "lat": 41.2587459,
+    "lng": -95.9383758,
+    "phone": "",
+    "website": "https://moonstrucklnc.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Offers world-class legal nurse consulting for attorneys handling workers' compensation and catastrophic personal injury cases.",
+    "certifications": [],
+    "services": [
+      "Workers' compensation consulting",
+      "Catastrophic personal injury consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:03",
+    "sentiment": null
+  },
+  {
+    "slug": "schutz-medical-legal-consulting-omaha",
+    "name": "Schutz Medical Legal Consulting",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "phone": "(682) 235-8557",
+    "website": "https://schutzmedlegal.com",
+    "email": "Susan@SchutzMedLegal.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides legal nurse consulting, expert witness locating, and medical damages consulting services to legal teams nationwide from Nebraska.",
+    "certifications": [],
+    "services": [
+      "Legal nurse consulting",
+      "Expert witness locating",
+      "Medical damages consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:06:03",
+    "sentiment": null
+  }
+]
